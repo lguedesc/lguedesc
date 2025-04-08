@@ -15,6 +15,8 @@ Welcome to my profile. I'm Luã, a Ph.D. in Mechanical Engineering and a Profess
 
 👉 Learn more about my research and projects at [lgcosta.com](https://lgcosta.com)
 
+👉 I'm current working on a high-performance package for the simulation dynamical systems. Stay tuned, it will be available soon!
+
 ## Programming skills:
 <table>
   <tr>
