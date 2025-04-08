@@ -34,10 +34,22 @@ Welcome to my profile. I'm Luã, a Ph.D. in Mechanical Engineering and a Profess
 </table>
 
 ## Connect with me:
+💬 I'm always open to exchanging ideas and exploring new collaborations.
+
+💼 Interested in working together? Fell free to explore my main social links below and get in touch.
 <p align="left"> 
-  <a href="https://www.github.com/lguedesc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://www.linkedin.com/in/luagcosta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+  <a href="mailto:lgcosta@ufrj.br" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/email-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/email-black.svg" /> <img src="assets/email-black.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.github.com/lguedesc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/github-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/github-black.svg" /> <img src="assets/github-black.svg" width="32" height="32" /> </picture> </a>
+  <a href="http://lattes.cnpq.br/4475844614704668" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/lattes-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/lattes-black.svg" /> <img src="assets/lattes-black.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.linkedin.com/in/luagcosta" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/linkedin-black.svg" /> <img src="assets/linkedin-black.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://orcid.org/0000-0002-2836-723X" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/orcid-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/orcid-black.svg" /> <img src="assets/orcid-black.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.researchgate.net/profile/Lua-Costa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/researchgate-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/researchgate-black.svg" /> <img src="assets/researchgate-black.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://scholar.google.com/citations?user=ZOk5zccAAAAJ" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/google-scholar-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/google-scholar-black.svg" /> <img src="assets/google-scholar-black.svg" width="32" height="32" /> </picture> </a>
+</p> 
+
+<div align="center">
+Thank you for visiting!
 
 
-Thank you for visiting! 
 ![Profile views counter](https://komarev.com/ghpvc/?username=lguedesc&&style=flat-square)
+</div>
