@@ -34,10 +34,12 @@ Welcome to my profile. I'm Luã, a Ph.D. in Mechanical Engineering and a Profess
 </table>
 
 ## Connect with me:
-💬 I'm always open to exchanging ideas and exploring new collaborations.
+- 💬 I'm always open to exchanging ideas and exploring new collaborations.
+- 💼 Interested in working together? Fell free to explore my main social links below and get in touch.
+  
 
-💼 Interested in working together? Fell free to explore my main social links below and get in touch.
-<p align="left"> 
+
+<p align="center"> 
   <a href="mailto:lgcosta@ufrj.br" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/email-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/email-black.svg" /> <img src="assets/email-black.svg" width="32" height="32" /> </picture> </a>
   <a href="https://www.github.com/lguedesc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/github-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/github-black.svg" /> <img src="assets/github-black.svg" width="32" height="32" /> </picture> </a>
   <a href="http://lattes.cnpq.br/4475844614704668" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/lattes-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="assets/lattes-black.svg" /> <img src="assets/lattes-black.svg" width="32" height="32" /> </picture> </a>
@@ -49,7 +51,6 @@ Welcome to my profile. I'm Luã, a Ph.D. in Mechanical Engineering and a Profess
 
 <div align="center">
 Thank you for visiting!
-
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=lguedesc&&style=flat-square)
 </div>
